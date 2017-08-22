@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily</string>
+    <string name="action_chart">Charts</string>
+    <string name="action_clear">Clear</string>
+</resources>
